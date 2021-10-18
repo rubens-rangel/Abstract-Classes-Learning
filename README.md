@@ -1,3 +1,3 @@
-# Contas-Bancarias-Abstract-Classes
+# Bank-Accounts-Abstract-Classes
 
-Programa usando os conceitos de classes e metodos abstratos. Atravês do curso de java na Udemy - Prof. Nelio Alves
+Program using the concepts of abstract classes and methods. Through the java course at Udemy - Prof. Nelio Alves
